@@ -1,0 +1,23 @@
+<template>
+ <div>
+     <h2>role</h2>
+ </div>
+</template>
+<script>
+export default {
+  data(){
+  return{
+ }
+ },
+  components:{
+ },
+ methods:{
+ },
+ mounted(){
+  },
+ beforeDestroy(){
+ }
+}
+</script>
+<style>
+</style>
